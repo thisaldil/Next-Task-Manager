@@ -1,8 +1,9 @@
-# 🚀 [Project Name]
+# 🚀 Next-Task-Manager
 
 > [One-line description — what it does and who it's for]
 
-![Project Banner](./screenshots/banner.png)
+A simple Task Management application built with Next.js, enabling users to create, organize, update, and track daily tasks through a clean and responsive interface. The application provides an efficient way to manage personal productivity and task progress.
+
 <!-- Tip: a 1280x640px screenshot of your app's hero/dashboard works great as a banner -->
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-brightgreen?style=for-the-badge)](YOUR_DEPLOYED_URL_HERE)
